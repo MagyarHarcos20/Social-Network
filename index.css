@@ -1,0 +1,76 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+}
+
+header, footer {
+    background: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px 0;
+}
+
+main {
+    padding: 20px;
+}
+
+h2, h3 {
+    color: #333;
+}
+
+form {
+    margin: 20px 0;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+.profile-image {
+    width: 75px;
+    height: 75px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+
+#username {
+    margin-top: -10px;
+}
+
+#menu {
+    width: 100px;
+    height: 523px;
+    background-color: rgb(43, 42, 42);
+    border-radius: 60px;
+}
+
+#posts {
+    margin-left: 150px;
+    margin-top: -500px;
+}
+
+#posts {
+    height: calc(80vh - 50px); /* Maradék magasság a viewportban */
+    overflow-y: auto; /* Függőleges görgetés engedélyezése */
+}
+
+#posztok-felirat {
+    margin-left: 150px;
+    margin-top: -460px;
+    display: flex;
+}
+
+#user-png{
+    display: flex;
+    margin-top: 50px;
+}
+
+#write-png {
+    margin-top: 50px;
+}
+
+#logout-png {
+    display: flex;
+    margin-top: 50px;
+}

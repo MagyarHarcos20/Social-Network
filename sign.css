@@ -1,0 +1,69 @@
+#felulet {
+    width: 200px;
+    height: 260px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 40px;
+    margin-left: 570px;
+    box-shadow: 10px 10px 10px rgb(53, 52, 52);
+    background-color: white;
+}
+
+h2 {
+    text-align: center;
+    margin-top: 150px;
+}
+
+p {
+    font-size: large;
+    font-weight: bolder;
+    text-align: center;
+}
+
+#register {
+    margin-left: 12px;
+    margin-top: 20px;
+    width: 150px;
+    height: 35px;
+    border-radius: 60px;
+    border: none;
+    background-color: #42B72A;
+    display: block;
+}
+
+#login {
+    margin-left: 12px;
+    margin-top: 20px;
+    width: 150px;
+    height: 35px;
+    border-radius: 60px;
+    border: none;
+    background-color: #007BFF;
+    display: block;
+}
+
+
+#username {
+    border-radius: 60px;
+    height: 25px;
+    background-color: #C0C0C0;
+    border: none;
+}
+
+#password {
+    border-radius: 60px;
+    height: 25px;
+    background-color: #C0C0C0;
+    border: none;
+}
+
+body {
+    background-color: #d6d6d6;
+}
+
+#link {
+    display: flex;
+    justify-content: center;
+    margin-top: -10px;
+}

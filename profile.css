@@ -1,0 +1,76 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+}
+
+header, footer {
+    background: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px 0;
+}
+
+main {
+    padding: 20px;
+}
+
+
+img {
+    max-width: 70%;
+    height: auto;
+}
+
+
+#menu {
+    width: 100px;
+    height: 523px;
+    background-color: rgb(43, 42, 42);
+    border-radius: 60px;
+}
+
+#home-png {
+    margin-top: 50px;
+    margin-left: 15px;
+}
+
+#user-png{
+    display: flex;
+    margin-top: 50px;
+    margin-left: 15px;
+}
+
+#write-png {
+    margin-top: 50px;
+    margin-left: 15px;
+}
+
+#logout-png {
+    display: flex;
+    margin-top: 50px;
+    margin-left: 15px;
+}
+
+#profil {
+    margin-left: 120px;
+    margin-top: -520px;
+    height: 500px;
+}
+
+#change-usr {
+    border-radius: 60px;
+    height: 25px;
+    background-color: #7c7c7c;
+    border: none;
+}
+
+
+#refresh {
+    border-radius: 60px;
+    height: 25px;
+    background-color: #007BFF;
+    border: none;
+}
+
+body {
+    background-color: #d6d6d6;
+}
